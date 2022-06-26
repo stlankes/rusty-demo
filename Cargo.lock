@@ -188,18 +188,18 @@ dependencies = [
 
 [[package]]
 name = "hermit-abi"
-version = "0.2.2"
+version = "0.2.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "6c757b269857055a7be0d1b60448b8696b00c5a00777f515a96ca651f1fcef2b"
+checksum = "d37fb7dc756218a0559bfc21e4381f03cbb696cdaf959e7e95e927496f0564cd"
 dependencies = [
  "libc",
 ]
 
 [[package]]
 name = "hermit-sys"
-version = "0.2.2"
+version = "0.2.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "d94789202e80dc990e9a4c29878f495f45d19479e73c4e53808933879c7db6da"
+checksum = "02dd2fb0786d2adf2d6c55288deb9f2565be0b194eb06d5a566db275f9bde856"
 dependencies = [
  "aarch64",
  "async-task",
